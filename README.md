@@ -20,7 +20,9 @@ container management.
 The original projects that Nereid is repurposing for K8s can be see seen here:
 
 [laticore](https://github.com/konture/laticore)
+
 [latitude-trainer](https://github.com/konture/latitude-trainer)
+
 [latitude-scaler](https://github.com/konture/latitude-scaler)
 
 
