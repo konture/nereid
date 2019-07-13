@@ -19,7 +19,7 @@ container management.
 
 ## Roadmap
 
-| Phase | Objectives | Date
+| Phase | Objectives | Date |
 | --- | --- |
 | Phase 1 | Working POC on Kubernetes using Prometheus metrics. Support autoscaling based on CPU, RequestCount, Network Usage, and Memory Pressure | Q3 2019 |
 | Phase 2 | Develop pre-trained, "seed" ML models based on industry partner data | Q1 2020 |
