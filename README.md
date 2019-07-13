@@ -10,12 +10,19 @@ requirements.
 Nereid is free open source software available under the Apache 2.0 License.
 
 ## Project Status
-Nereid is in the early stages of development, and maintained by the Scott Crespo of Konture Technology Servies and
+Nereid is in the early stages of development, and maintained by the Scott Crespo of Konture Technology Services and
 Jason Van Brackel of Rancher Labs.
 
-Nereid is based on Konture's proprietary autoscaling service for AWS EC2, and leverages nearly 2 years of R&D. Konture is
+Nereid is based on Konture's autoscaling service (Latitude) for AWS EC2, and leverages nearly 2 years of R&D. Konture is
 making its software available for free to the Kubernetes community to usher in a new era of A.I.-driven, platform-agnostic
 container management.
+
+The original projects that Nereid is repurposing for K8s can be see seen here:
+
+[laticore](https://github.com/konture/laticore)
+[latitude-trainer](https://github.com/konture/latitude-trainer)
+[latitude-scaler](https://github.com/konture/latitude-scaler)
+
 
 ## Roadmap
 
